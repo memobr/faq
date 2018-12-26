@@ -1,0 +1,12 @@
+{
+  "name": "memobr/faq",
+  "description": "Yii2 FAQ widget",
+  "keywords": ["yii2", "faq"],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "memobr\\faq\\": "src"
+    }
+  }
+}
